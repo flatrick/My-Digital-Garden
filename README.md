@@ -23,7 +23,7 @@ I'll look for the ones that still interests me, and then the next step is to ela
 1. Include the relevant citation (lastName, year, pp.22).
 
 # 03 Permanent notes
-Here is where I store my own thoughts, either distilled from various notes found in **02. References**,  **03. Permanent notes** or just from my own mind.
+Here is where I store my own thoughts, either distilled from various notes found in **02. References**,  **03. Permanent notes** or just straight from my own mind.
 This is also where I keep my [[Map of Content]] to navigate my various categories.
 
 Some key differences between **Reference notes** and **Permanent notes**:
