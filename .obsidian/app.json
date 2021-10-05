@@ -4,5 +4,9 @@
   "useTab": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "01 - Inbox",
-  "attachmentFolderPath": "ASSETS"
+  "attachmentFolderPath": "ASSETS",
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "trashOption": "local"
 }

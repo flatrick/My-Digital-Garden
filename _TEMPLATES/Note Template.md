@@ -2,7 +2,6 @@
 tags: []
 aliases: []
 ---
-Created: {{date}} | {{time}}
 # {{title}}
 
 # Related notes

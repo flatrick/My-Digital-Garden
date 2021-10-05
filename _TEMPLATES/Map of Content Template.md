@@ -2,8 +2,7 @@
 tags: ["MOC"]
 aliases: []
 ---
-Created: {{date}} | {{time}}
-[[+HOME|Parent MOC]]
+[[HOME|Parent MOC]]
 # {{title}}
 
 ## Index

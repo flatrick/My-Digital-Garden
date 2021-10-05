@@ -12,7 +12,7 @@ If the answer is no to both, it's most likely not something I'll want to save.
 
 # 02. References
 On a daily basis, I'll go to the **inbox** and pick out the ideas that I really want to keep.
-Look for the ones that still interests me, and then the next step is to elaborate those notes into a paragraph that describes the idea in full.
+I'll look for the ones that still interests me, and then the next step is to elaborate those notes into a paragraph that describes the idea in full.
 
 1. Write it in my own words
 1. Write it in such away that if I read it 10 years later, it would make complete sense by itself  
@@ -20,19 +20,16 @@ Look for the ones that still interests me, and then the next step is to elaborat
 1. Include the relevant citation (lastName, year, pp.22).
 
 # 03. Permanent notes
-Some differences between **reference notes** and **Permanent notes**:
+Here is where I store my own thoughts, either distilled from various notes found in **02. References**,  **03. Permanent notes**, or just from my own mind.
+This is also where I keep my [[Map of Content]] to navigate my various categories.
 
+Some key differences between **Reference notes** and **Permanent notes**:
 -   **Reference notes** are written in the context of the source they were inspired by
-	-   Whereas **permanent notes** are written in the context of my own ideas and interests.
--   **Reference notes** only have one connection, to the book they came from.
-	-  Whereas **permanent notes** can have many connections (to individual notes, as part of multiple topics etc)
-- **Each note represents a single idea** ( [[03 - Permanent notes/Atomic Note|Atomic Notes]] ). 
-	- If I need to define a term for the idea/concept to make sense, I'll make a new note for the term and link to it from this note
-
-## Map of Contents
-#MOC ( [[Map of Content]] ) serve the purpose of collecting various single ideas into a shared context, so for ideas that are complex (i.e. built upon multiple ideas) I can use a [[Map of Content]]  to sort/categorize the various ideas.
-Since single ideas could be relevant for multiple complex ideas, multiple [[Map of Content|Map of Contents]] could reference the same notes.
-In fact, it might even be relevant to link to other [[Map of Content|Map of Contents]] for complex ideas that are based upon multiple complex ideas.
+	-   Whereas **Permanent notes** are written in the context of my own ideas and interests.
+-   **Reference notes** should only have one connection: the source they came from.
+	-  Whereas **Permanent notes** can have many connections
+        -   to other **Permanent notes** or **Reference notes*
+- **Each note represents a single idea** ( [[Atomic Note|Atomic Notes]] ). 
 
 # 04. Projects
 Projects is where I store notes for specific projects where I'm trying to produce something(s).
