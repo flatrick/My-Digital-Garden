@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "HOME.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "HOME.md"
               }
             }
           }
@@ -98,12 +98,12 @@
   },
   "active": "e481f2ffe6174d7c",
   "lastOpenFiles": [
-    "README.md",
     "HOME.md",
-    "04 Projects/+What to put here.md",
-    "03 Permanent notes/+What to put here.md",
-    "02 References/+What to put here.md",
     "01 Inbox/+What to put here.md",
+    "02 References/+What to put here.md",
+    "03 Permanent notes/+What to put here.md",
+    "04 Projects/+What to put here.md",
+    "README.md",
     "03 Permanent notes/+What to put here 1.md",
     "03 Permanent notes/Atomic Note.md",
     "03 Permanent notes/Map of Content.md",
