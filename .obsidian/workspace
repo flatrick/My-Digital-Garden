@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "51c8296c622038a1",
+        "id": "e481f2ffe6174d7c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51c8296c622038a1",
+  "active": "e481f2ffe6174d7c",
   "lastOpenFiles": [
     "README.md",
+    "01 Inbox/+What to put here.md",
+    "02 References/+What to put here.md",
+    "03 Permanent notes/+What to put here.md",
+    "03 Permanent notes/Atomic Note.md",
+    "03 Permanent notes/Map of Content.md",
     "HOME.md",
-    "_TEMPLATES/Note Template.md",
     "_TEMPLATES/Map of Content Template.md",
-    "03 - Permanent notes/Map of Content.md",
-    "03 - Permanent notes/Atomic Note.md",
-    "01 - Inbox/Map of Content.md",
-    "01 - Inbox/Untitled.md",
-    "01 - Inbox/+What to put here.md",
-    "03 - Permanent notes/+What to put here.md"
+    "_TEMPLATES/Note Template.md",
+    "01 - Inbox/+What to put here.md"
   ]
 }
