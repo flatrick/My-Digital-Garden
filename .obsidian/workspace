@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "03 Permanent notes/Atomic Note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03 Permanent notes/Atomic Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "03 Permanent notes/Atomic Note.md"
               }
             }
           }
@@ -98,6 +98,7 @@
   },
   "active": "e481f2ffe6174d7c",
   "lastOpenFiles": [
+    "03 Permanent notes/Atomic Note.md",
     "README.md",
     "HOME.md",
     "_TEMPLATES/Note Template.md",
@@ -105,7 +106,6 @@
     "01 Inbox/+What to put here.md",
     "04 Projects/+What to put here.md",
     "03 Permanent notes/Map of Content.md",
-    "03 Permanent notes/Atomic Note.md",
     "02 References/+What to put here.md",
     "03 Permanent notes/+What to put here.md"
   ]

@@ -2,7 +2,7 @@
 alias:
   - FAQ
 created: '2021-10-05T11:23:17+02:00'
-updated: '2021-10-05T11:23:17+02:00'
+updated: '2021-10-05T12:54:34+02:00'
 ---
 # 01 Inbox
 Here I store short notes that acts as reminders of ideas, a sort of bookmark for things that I want to extract knowledge from.
