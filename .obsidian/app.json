@@ -1,1 +1,8 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "useTab": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01 - Inbox",
+  "attachmentFolderPath": "ASSETS"
+}
