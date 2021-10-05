@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 Permanent notes/Atomic Note.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Permanent notes/Atomic Note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Permanent notes/Atomic Note.md"
+                "file": "README.md"
               }
             }
           }
@@ -98,8 +98,8 @@
   },
   "active": "e481f2ffe6174d7c",
   "lastOpenFiles": [
-    "03 Permanent notes/Atomic Note.md",
     "README.md",
+    "03 Permanent notes/Atomic Note.md",
     "HOME.md",
     "_TEMPLATES/Note Template.md",
     "_TEMPLATES/Map of Content Template.md",
