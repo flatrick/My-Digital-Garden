@@ -1,1 +1,1 @@
-![[README#01 Inbox|FAQ]]
+![[README#01 Inbox]]

@@ -1,1 +1,1 @@
-![[README#02 References|FAQ]]
+![[README#02 References]]

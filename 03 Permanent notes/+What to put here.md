@@ -1,1 +1,1 @@
-![[README#03 Permanent notes|FAQ]]
+![[README#03 Permanent notes]]
