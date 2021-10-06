@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HOME.md",
-            "mode": "preview"
+            "file": "_ASSETS/+What to put here.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "_ASSETS/+What to put here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "_ASSETS/+What to put here.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "e481f2ffe6174d7c",
   "lastOpenFiles": [
+    "_ASSETS/Untitled.md",
+    "01 Inbox/+What to put here.md",
+    "_TEMPLATES/Note Template.md",
+    "_TEMPLATES/Map of Content Template.md",
     "HOME.md",
     "README.md",
     "03 Permanent notes/+What to put here.md",
     "02 References/Map of Content.md",
     "02 References/Atomic Note.md",
-    "01 Inbox/+What to put here.md",
-    "02 References/+What to put here.md",
-    "03 Permanent notes/Map of Content.md",
-    "03 Permanent notes/Atomic Note.md",
-    "04 Projects/+What to put here.md"
+    "02 References/+What to put here.md"
   ]
 }

@@ -1,0 +1,1 @@
+This folder is for storing any pictures or other files you wish to reference inside of Obsidian
