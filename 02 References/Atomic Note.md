@@ -2,11 +2,11 @@
 alias:
   - Atomic Notes
 created: '2021-10-04T13:54:44+02:00'
-updated: '2021-10-04T21:33:55+02:00'
+updated: '2021-10-05T17:28:10+02:00'
 ---
 
 # Atomic Note
-An **Atomic Note** is a note of a single thought/idea.
+An [[Atomic Note]] is a note of a single thought/idea.
 
 Consider these points when making a note:
 * Why is it important to me? 
