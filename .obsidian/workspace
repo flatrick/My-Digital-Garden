@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e481f2ffe6174d7c",
+        "id": "a0ae4efcef48ed4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_ASSETS/+What to put here.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ASSETS/+What to put here.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ASSETS/+What to put here.md"
+                "file": "README.md"
               }
             }
           }
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e481f2ffe6174d7c",
+  "active": "a0ae4efcef48ed4b",
   "lastOpenFiles": [
+    "README.md",
+    "HOME.md",
+    "_ASSETS/+What to put here.md",
     "_ASSETS/Untitled.md",
     "01 Inbox/+What to put here.md",
     "_TEMPLATES/Note Template.md",
     "_TEMPLATES/Map of Content Template.md",
-    "HOME.md",
-    "README.md",
     "03 Permanent notes/+What to put here.md",
     "02 References/Map of Content.md",
-    "02 References/Atomic Note.md",
-    "02 References/+What to put here.md"
+    "02 References/Atomic Note.md"
   ]
 }

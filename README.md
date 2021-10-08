@@ -9,7 +9,9 @@ Here I store short notes that acts as reminders of ideas, a sort of bookmark for
 
 Consider these points before choosing to save a note:
 1. Is this something I will care about in one year?
-1. Is this something I can make use of?
+2. Is this something I can make use of?
+3. Is this an insight of mine from hard-won knowledge worth revisiting?
+4. Is this something I'm unlikely to find easily in the future?
 
 If the answer is yes to either one of them, it is worth saving.
 
