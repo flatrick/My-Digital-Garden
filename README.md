@@ -2,18 +2,19 @@
 alias:
   - FAQ
 created: '2021-10-05T11:23:17+02:00'
-updated: '2021-10-06T09:29:18+02:00'
+updated: '2021-10-08T13:05:40+02:00'
 ---
 # 01 Inbox
 Here I store short notes that acts as reminders of ideas, a sort of bookmark for things that I want to extract knowledge from.
 
 Consider these points before choosing to save a note:
-1. Is this something I will care about in one year?
-2. Is this something I can make use of?
-3. Is this an insight of mine from hard-won knowledge worth revisiting?
-4. Is this something I'm unlikely to find easily in the future?
+1. Is this something that inspires me?
+2. Is this something I will care about in one year?
+4. Is this something I can make use of?
+5. Is this an insight of mine from hard-won knowledge worth revisiting?
+6. Is this something I'm unlikely to find easily in the future?
 
-If the answer is yes to either one of them, it is worth saving.
+If the answer is yes to any one of them, it is worth saving.
 
 # 02 References
 On a daily basis, I'll go to the **01 Inbox** and pick out the ideas that I really want to keep.
